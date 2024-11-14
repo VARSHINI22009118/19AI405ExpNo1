@@ -47,7 +47,7 @@ do_nothing: Represents a passive action where the agent remains idle.</p>
 <h3>CODE:</h3>
 
 <code>
-
+```
 import random
 import time
 class Thing:
@@ -217,7 +217,7 @@ if __name__ == "__main__":
  print(agent.performance)
 
 </code>
-
+```
 <h3>OUTPUT:</h3>
 
 ![WhatsApp Image 2024-02-20 at 22 19 39_181f12bb](https://github.com/Nandhakumar1313/19AI405ExpNo1/assets/120230694/0e780de5-71dd-4d61-a02a-a709d59c2851)
