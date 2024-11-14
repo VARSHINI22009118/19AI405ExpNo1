@@ -46,7 +46,7 @@ do_nothing: Represents a passive action where the agent remains idle.</p>
 <p>Measure the performance parameters: For each cleaning performance incremented, for each movement performance decremented</p>
 <h3>CODE:</h3>
 
-<code>
+
 ```
 import random
 import time
@@ -216,7 +216,7 @@ if __name__ == "__main__":
  print(environment.status)
  print(agent.performance)
 
-</code>
+
 ```
 <h3>OUTPUT:</h3>
 
